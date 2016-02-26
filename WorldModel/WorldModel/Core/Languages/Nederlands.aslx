@@ -1,4 +1,4 @@
-﻿<library>
+<library>
   <!-- Get any undefined templates from the English library -->
   <include ref="English.aslx"/>
   <template name="LanguageId">nl</template>
